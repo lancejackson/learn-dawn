@@ -1,0 +1,29 @@
+* {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #fff;
+}
+
+html, body {
+    background-color: #5badd9;
+}
+
+header {
+    padding: 16px;
+}
+
+.container {
+    padding: 16px;
+}
+
+img {
+    margin: 12px;
+}
+
+h1, h3 {
+    font-family: 'Sansita Swashed', cursive;
+}
+
+#sidebar {
+    background-color: #283b45;
+    padding: 8px;
+}

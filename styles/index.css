@@ -1,0 +1,24 @@
+* {
+    font-family: 'Piazzolla', serif;
+}
+html, body {
+    background-color: #f5f2e6;
+}
+
+header {
+    background-color: #4a483e;
+    padding: 16px;
+    color: #fff;
+}
+
+.container {
+    padding: 16px;
+}
+
+img {
+    margin: 12px;
+}
+
+#sidebar {
+    border: 1px solid #000;
+}
